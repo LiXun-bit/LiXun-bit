@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi there, I'm Li Xun (李迅) 👋
 
-🎓 **Master Candidate @ Beijing Institute of Technology (BIT) | Mechanical Engineering & Automation
+🎓 **Master Candidate** @ Beijing Institute of Technology (BIT) | Mechanical Engineering & Automation
 🔬 **Research Interests:** Computer Vision (CV), Physics-Informed Neural Networks (PINN), AI4Science
 
 ## 🚀 About Me
